@@ -326,18 +326,6 @@ While this is primarily a personal learning repository, contributions are welcom
 
 ---
 
-## 📅 Roadmap
-
-### Upcoming Labs
-
-- [ ] SQL Injection Lab — Database exploitation techniques
-- [ ] Cross-Site Scripting (XSS) Lab — Client-side attack vectors
-- [ ] Network Scanning with Nmap — Host and service discovery
-- [ ] Metasploit Framework Lab — Exploitation and post-exploitation
-- [ ] Wireless Security Lab — WiFi penetration testing
-- [ ] Social Engineering Lab — Human-based attack vectors
-- [ ] Mobile Application Security — Android/iOS testing
-- [ ] API Security Testing — REST/GraphQL vulnerabilities
 
 ### Future Enhancements
 
