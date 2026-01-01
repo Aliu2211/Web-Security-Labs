@@ -261,32 +261,7 @@ The techniques demonstrated in these labs are for:
 - ❌ Privacy violations
 - ❌ Any illegal activities
 
----
 
-## 🎓 Certification & Training
-
-These labs were completed as part of:
-
-**ParoCyber Ethical Hacking Training Program**
-
-Recommended certifications and training paths:
-
-| Certification | Focus | Level |
-|---------------|-------|-------|
-| **CEH** | Certified Ethical Hacker | Intermediate |
-| **OSCP** | Offensive Security Certified Professional | Advanced |
-| **PNPT** | Practical Network Penetration Tester | Intermediate |
-| **eWPT** | eLearnSecurity Web Application Penetration Tester | Intermediate |
-| **GWAPT** | GIAC Web Application Penetration Tester | Advanced |
-
-**Additional Learning Platforms:**
-
-- [TryHackMe](https://tryhackme.com/) — Guided cybersecurity learning
-- [Hack The Box](https://www.hackthebox.com/) — Penetration testing practice
-- [PortSwigger Web Security Academy](https://portswigger.net/web-security) — Free web security training
-- [OWASP Projects](https://owasp.org/) — Web application security resources
-
----
 
 ## 🤝 Contributing
 
